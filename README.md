@@ -32,7 +32,7 @@
  $ python3 instagrx.pyc
  $ press mod - 7 - 
 ```  
-## another use : 
+## When using later : 
 ``` 
  $ cd instagrx
  $ python3 instagrx.pyc
@@ -49,7 +49,7 @@
  $ python3 instagrx.pyc
  $ press mod - 7 - 
 ```  
-## another use : 
+## When using later : 
 ``` 
  $ cd instagrx
  $ python3 instagrx.pyc
@@ -68,7 +68,7 @@
  $ python3 instagrx.pyc
  $ press mod - 7 - 
 ```  
-## another use : 
+## When using later : 
 ``` 
  $ cd instagrx
  $ python3 instagrx.pyc
