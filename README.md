@@ -88,3 +88,10 @@
 * <span style="color: cyan"><font size="4">5 - About us</font></span>
 * <span style="color: cyan"><font size="4">6 - Tool update</font></span>
 * <span style="color: cyan"><font size="4">7 - first use</font></span>
+
+# txt files 
+* <span style="color: red"><font size="8">THIS FILES FOR PASSWORD (WORDLIST)</font></span>
+* <span style="color: cyan"><font size="4">list.txt - for mod 1 </font></span>
+* <span style="color: cyan"><font size="4">list_combo1.txt - for mod 3 [email:password]</font></span>
+* <span style="color: cyan"><font size="4">list_combo2.txt - for mod 4 [password:email]</font></span>
+* <span style="color: cyan"><font size="4">done.txt - for free accounts</font></span>
